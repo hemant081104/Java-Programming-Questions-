@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 /**
  * * Pattern:-
  *             ! * * * *
@@ -21,5 +23,6 @@ class Reverse_Right_Half_Pyramid {
             num2-- ;
         }
         sc.close();
+       
     }
 }
